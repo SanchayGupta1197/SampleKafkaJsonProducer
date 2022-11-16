@@ -72,7 +72,7 @@
         <json.version>20090211</json.version>
         <commonio.version>2.7</commonio.version>
         <kusto-sdk.version>2.1.0</kusto-sdk.version>
-        <jackson.version>2.11.1</jackson.version>
+        <jackson.version>2.12.7.1</jackson.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     <dependencies>
