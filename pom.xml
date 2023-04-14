@@ -69,7 +69,7 @@
     </developers>
     <properties>
         <kafka.version>1.0.0</kafka.version>
-        <json.version>20090211</json.version>
+        <json.version>20230227</json.version>
         <commonio.version>2.7</commonio.version>
         <kusto-sdk.version>2.1.0</kusto-sdk.version>
         <jackson.version>2.11.1</jackson.version>
